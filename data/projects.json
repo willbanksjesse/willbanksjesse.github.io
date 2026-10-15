@@ -1,0 +1,108 @@
+[
+  {
+    "id": "case-cart",
+    "title": "Less Shelf Chaos, More Surgical Flow",
+    "subtitle": "Case cart improvements at OU Health",
+    "category": "Healthcare Ops",
+    "role": "Data Analyst, Lean Six Sigma Green Belt project",
+    "date": "Aug 2025 – Dec 2025",
+    "description": "Analyzed Sterile Processing Department supply operations supporting about 90 surgeries a day and redesigned how case carts get stocked and prepared.",
+    "highlights": [
+      "Built a centralized inventory dataset and dashboards tracking supply usage, restock frequency, and inventory levels",
+      "Analyzed the top 50 high-volume surgical supplies to flag overstocked and understocked items and recommend new par levels",
+      "Applied DMAIC with SIPOC, value stream mapping, and FMEA to find the root causes of delays",
+      "Recommended optimized storage layouts, standardized labeling, and barcode-based inventory tracking"
+    ],
+    "impact": "Recommendations projected to save 2,000+ labor hours a year",
+    "technologies": ["Lean Six Sigma", "DMAIC", "Tableau", "Excel", "FMEA", "Value Stream Mapping"],
+    "images": ["images/casecart-2.jpg", "images/casecart-1.jpg", "images/casecart-3.jpg"]
+  },
+  {
+    "id": "chickasaw",
+    "title": "Turning Data into Dollars",
+    "subtitle": "Chickasaw Nation Gaming Commission case competition",
+    "category": "Data",
+    "role": "Data Analyst, student analytics team",
+    "date": "Aug 2024 – Dec 2024",
+    "description": "Analyzed patron behavior, geographic revenue, and demographic engagement to find high-value customer segments and the risks facing future revenue.",
+    "highlights": [
+      "Cleaned and transformed large gaming datasets in Python using Google Colab",
+      "Built dashboards in Power BI and Tableau covering spending patterns, trip frequency, and demographics",
+      "Found that patrons from neighboring states made up a significant share of revenue, and assessed how regional gambling legislation could change that",
+      "Recommended loyalty, entertainment, and data-driven marketing strategies to leadership"
+    ],
+    "impact": "Delivered strategic recommendations to Gaming Commission leadership",
+    "note": "Data and visuals were anonymized and modified for portfolio use.",
+    "technologies": ["Python", "Google Colab", "Power BI", "Tableau"],
+    "images": ["images/chickasaw-1.jpg"]
+  },
+  {
+    "id": "nestkeep",
+    "title": "NestKeep",
+    "subtitle": "AI-powered property management for small landlords",
+    "category": "AI & Product",
+    "role": "Co-developer, three-person team",
+    "date": "Jan 2026 – May 2026",
+    "description": "A platform for landlords with 1–10 units that replaces scattered texts, emails, and spreadsheets with one place for maintenance requests, tenant messages, and property records.",
+    "highlights": [
+      "AI maintenance intake: a conversational assistant asks tenants 3–5 follow-up questions, then fills in the request title, description, and urgency",
+      "Predictive maintenance insights scan up to 200 past requests per property to surface recurring or escalating issues",
+      "Three-layer urgency detection combines AI classification, a database keyword safety net, and landlord override so leaks, gas, fire, and no-heat issues are never missed",
+      "Presented market sizing (90% of U.S. landlords own 10 or fewer units) and an AI ethics review covering misclassification, fairness, and privacy"
+    ],
+    "impact": "Working prototype with role-based access and tenant/landlord data isolation",
+    "technologies": ["Lovable", "Supabase", "PostgreSQL", "Row Level Security", "Edge Functions", "Generative AI"],
+    "images": ["images/nestkeep-2.jpg", "images/nestkeep-1.jpg", "images/nestkeep-3.jpg", "images/nestkeep-4.jpg"]
+  },
+  {
+    "id": "stadium-stacks",
+    "title": "Stadium Stacks",
+    "subtitle": "Student-run company, Integrated Business Core",
+    "category": "Business & Leadership",
+    "role": "Chief Philanthropy Officer",
+    "date": "Jan 2024 – May 2024",
+    "description": "Helped launch, run, and close a real company selling OU-themed color-changing stadium cups, from focus groups and a bank loan pitch through four reorders and an exit plan.",
+    "highlights": [
+      "Validated the product with focus groups and surveys that set cup size, pack options, and pricing",
+      "Pitched First Fidelity Bank and secured a $3,700 startup loan",
+      "Sold through campus events, online orders, alumni outreach, and wholesale deals, and reordered inventory four times",
+      "Led philanthropy: 315 service hours against a 300-hour goal, and $7,814.63 donated to The Virtue Center"
+    ],
+    "impact": "About $25,000 in revenue and $10,629 net income, roughly double the projection",
+    "technologies": ["Market Research", "Financial Planning", "Go-to-Market Strategy", "Volunteer Leadership"],
+    "images": ["images/ibc-1.jpg", "images/ibc-2.jpg", "images/ibc-3.jpg"]
+  },
+  {
+    "id": "double-wolf-dare",
+    "title": "Double Wolf Dare Week",
+    "subtitle": "High school student council philanthropy",
+    "category": "Business & Leadership",
+    "role": "Merchandise Manager",
+    "date": "2021 – 2022",
+    "description": "Ran merchandise for a week-long, school-wide fundraiser supporting nonprofits focused on human trafficking recovery and youth services.",
+    "highlights": [
+      "Managed merchandise design and distribution for 2,000+ participants",
+      "Helped organize community events and donation drives",
+      "Raised $123,627 junior year and $213,285 senior year"
+    ],
+    "impact": "$336,912 raised across two years",
+    "technologies": ["Event Planning", "Merchandising", "Fundraising"],
+    "images": ["images/dwd-2022.jpg", "images/dwd-2021.jpg"]
+  },
+  {
+    "id": "sports-analytics",
+    "title": "Sports Analytics Platform",
+    "subtitle": "Personal project, in progress",
+    "category": "Data",
+    "role": "Solo builder",
+    "date": "Ongoing",
+    "description": "A personal sports analytics platform built in Python that uses AI to turn game and player data into readable performance insights.",
+    "highlights": [
+      "Built in Python as a hands-on way to practice data pipelines and analysis",
+      "Uses AI models to summarize trends and explain what the numbers mean"
+    ],
+    "impact": "Ongoing build, updated as new features ship",
+    "technologies": ["Python", "AI", "Data Analysis"],
+    "images": []
+  }
+]
